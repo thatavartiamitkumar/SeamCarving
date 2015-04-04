@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191553236
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191561031
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191567317
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191572677
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191581623
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191583659
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1384191583671
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191586933
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191588017
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1384191588027
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191593163
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191603487
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191611389
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191616174
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191622954
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191717420
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384191717445
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384191717445
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191722290
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191751070
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384191751088
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384191751088
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384191755869
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384191756089
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191763160
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191799903
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191826203
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191826290
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191826461
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191831694
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191832009
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191842660
+error,log,,,"Launch shortcut 'com.yourkit.profiler.webappLaunchShortcut' enablement expression caused exception. Shortcut was removed.",1384191846901
+activated,perspective,org.eclipse.jst.j2ee.ui,1.1.503.v201201190400,"org.eclipse.jst.j2ee.J2EEPerspective",1384191849641
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384191852326
+started,bundle,org.eclipse.jst.ws.jaxws.dom.integration,1.0.101.v201201031437,"org.eclipse.jst.ws.jaxws.dom.integration",1384191852362
+started,bundle,org.eclipse.jst.ws.jaxws.dom.ui,1.0.0.v201004171919,"org.eclipse.jst.ws.jaxws.dom.ui",1384191852398
+started,bundle,org.eclipse.mylyn.resources.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.resources.ui",1384191858659
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191873807
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384191983102
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384191986971
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384191989773
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384191990003
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384191993906
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384191994058
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384191996603
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384191996607
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192005189
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192024726
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192026789
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1384192030629
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192035067
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192048377
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192053746
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192057468
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192059859
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192071259
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192071490
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192071623
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.selectAll",1384192074391
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1384192075277
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1384192076687
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192100432
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192106786
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192113607
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192119228
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192125684
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192127000
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192128542
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1384192128559
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192128571
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192128726
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192135589
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192144723
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192149985
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192153535
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384192153550
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384192153550
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192156201
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192156742
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1384192156756
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192163157
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192189849
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384192189920
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384192189920
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192194551
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192194675
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192198854
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192199114
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192199245
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192206863
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192208551
+executed,command,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui.localJavaShortcut.run",1384192208563
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192220838
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192228632
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192229010
+error,log,,,"Invalid ZIP archive: ImageProcessorDriver.java [in SeamCarving]",1384192229752
+error,log,,,"Invalid ZIP archive: ImageProcessorDriver.java [in SeamCarving]",1384192233996
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192241334
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192242577
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192242648
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1384192242669
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192242792
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192246653
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192274493
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384192274522
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384192274522
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ResourceNavigator",1384192284173
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.views.showView",1384192284173
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192301044
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192301172
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192301229
+error,log,,,"Exception occurred during problem detection:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\nimport javax.swing.*;\r\nimport java.awt.*;\r\nimport java.io.*;\r\n\r\n//DO NOT MODIFY THIS PROGRAM!!!\r\n\r\n/**\r\n\tThis is the driver program for the image processing project\r\n*/\r\npublic class ImageProcessorDriver \r\n{\t\r\n\tpublic static void main(String[] args) throws IOException {\t\t\r\n\t\tImageProcessorGUI p1 = new ImageProcessorGUI();\r\n\t\tp1.setSize(new Dimension(500,600));\r\n\t\tp1.setVisible(true);\r\n\t\tp1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);\r\n\t}\r\n}\r\n----------------------------------- SOURCE END -------------------------------------",1384192301632
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192301635
+error,log,,,"Error in JDT Core during reconcile",1384192301637
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192301652
+error,log,,,"Error in JDT Core during AST creation",1384192301653
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192303333
+error,log,,,"Error in JDT Core during AST creation",1384192303335
+error,log,,,"Unhandled event loop exception",1384192303428
+error,log,,,"Unhandled event loop exception",1384192303450
+error,log,,,"Unhandled event loop exception",1384192303868
+error,log,,,"Unhandled event loop exception",1384192304076
+error,log,,,"Unhandled event loop exception",1384192304456
+error,log,,,"Unhandled event loop exception",1384192304469
+error,log,,,"Unhandled event loop exception",1384192304493
+error,log,,,"Unhandled event loop exception",1384192304543
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192304965
+error,log,,,"Error in JDT Core during AST creation",1384192304967
+error,log,,,"Unhandled event loop exception",1384192304973
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192308411
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192314149
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.navigate.open.type",1384192314169
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192314826
+error,log,,,"Error in JDT Core during AST creation",1384192314827
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ResourceNavigator",1384192318691
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192320743
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192320849
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192320969
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192323310
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192323468
+error,log,,,"Error in JDT Core during AST creation",1384192323469
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192324656
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192345646
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ResourceNavigator",1384192349770
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192360045
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192360185
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192360329
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192364774
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192366136
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192366141
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192371307
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192371469
+error,log,,,"Error in JDT Core during AST creation",1384192371470
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192373014
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192384543
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192384703
+error,log,,,"Error in JDT Core during AST creation",1384192384704
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192385891
+error,log,,,"Error in JDT Core during AST creation",1384192385892
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192386890
+error,log,,,"Error in JDT Core during AST creation",1384192386891
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192388309
+error,log,,,"Error in JDT Core during AST creation",1384192388311
+error,log,,,"Unhandled event loop exception",1384192388318
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192391528
+error,log,,,"Error in JDT Core during AST creation",1384192391529
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192397183
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192415330
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192420359
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192421416
+closed,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.ClassFileEditor",1384192421416
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192422842
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192522090
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192566288
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192567064
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1384192567076
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192572550
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192573447
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1384192573460
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192576836
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192678280
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192687670
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1384192724927
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384192724949
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1384192724949
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ResourceNavigator",1384192735197
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192777308
+activated,view,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.ProjectExplorer",1384192777488
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1384192777539
+error,log,,,"Exception occurred during problem detection:\r\n----------------------------------- SOURCE BEGIN -------------------------------------\r\nimport javax.swing.*;\r\nimport java.awt.*;\r\nimport java.awt.event.*;\r\nimport java.io.*;\r\nimport java.util.*;\r\nimport java.io.File;\r\n\r\n/**\r\n\tgeneral description of the class\r\n\t...\r\n*/\r\npublic class ImageProcessor \r\n{\r\n\tprivate int rowN,columnN;     //the image has rowN rows and columnN columns\r\n   private int maxG;\r\n\tprivate int[][] img;\t\t      //pixel values of the image \r\n\tprivate int[][] originalImg;  //original image \r\n\tprivate int[][] energy;\r\n\tprivate int[][] cumMinEnergy; \r\n\tprivate boolean verticalSeam = false;\r\n\tprivate String fileName;\r\n\tprivate String header;\r\n\t\r\n\t/** \r\n\t\tread the image file\r\n\t\t@param file : the image file\r\n\t*/\t\r\n\tpublic void readImage(File file)\r\n\t{\t\t\t\r\n\t\tthis.fileName = file.getPath(); \r\n\t\theader = """";\r\n\t\ttry {\r\n\t\t\tScanner input = new Scanner(file);\r\n\t\t\t\r\n\t\t\tif (input.hasNext(""P2"")) \r\n\t\t\t\theader += input.nextLine()+""\\n"";\r\n\t\t\telse\r\n\t\t\t\tthrow new IOException();\r\n\t\t\t\t\t\r\n\t\t\tif (input.hasNext(""#.*"")) \r\n\t\t\t\theader += input.nextLine()+""\\n"";\r\n\t\t\t\r\n\t\t\tcolumnN = input.nextInt();\r\n\t\t\trowN = input.nextInt();\r\n\t\t\tmaxG = input.nextInt();\r\n\t\t\t\r\n\t\t\timg = new int[rowN][columnN];\r\n\t\t\toriginalImg = new int[rowN][columnN];\r\n\t\t\tfor (int i=0; i<rowN; i++) {\r\n\t\t\t\tfor (int j=0; j< columnN; j++) {\r\n\t\t\t\t\toriginalImg[i][j] = img[i][j] = input.nextInt();\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t\tinput.close();\r\n\t\t}\r\n\t\tcatch (FileNotFoundException e) {\r\n\t\t\tSystem.out.println(""warning: file not found"");\r\n\t\t}\r\n\t\tcatch (IOException e) {\r\n\t\t\tSystem.out.println(""warning: file format error"");\r\n\t\t}\r\n\t}\t\r\n\t/**\r\n\t\tadd description ...\r\n\t\t@param processingMethod : ...\r\n\t\t@param viewer : ...\r\n\t*/\r\n\tpublic void processImg(String processingMethod, PgmImageViewer viewer)\r\n\t{\r\n\t\tSystem.out.println(""processing method = ""+processingMethod);\r\n\t\tresetImgToOriginal();\r\n\t\tif (processingMethod.equals(""stretching""))\r\n\t\t\tviewer.resizeImg(true);\r\n\t\telse if (processingMethod.equals(""fixedRatio"")) \r\n\t\t\tviewer.resizeImg(false);\r\n\t\telse if (processingMethod.equals(""cropping"")) {\r\n\t\t\tviewer.resizeImg(false);\r\n\t\t\tint viewerH = viewer.getHeight();\r\n\t\t\tint viewerW = viewer.getWidth();\r\n\t\t\t//remove one row/column at a time\r\n\t\t\tif ((double)rowN/columnN/((double)viewerH/viewerW)>1) {\r\n\t\t\t\twhile ((double)rowN/columnN/((double)viewerH/viewerW)>1)  \r\n\t\t\t\t\trowN--;\t\t\t\t\r\n\t\t\t}\r\n\t\t\telse {\r\n\t\t\t\twhile ((double)rowN/columnN/((double)viewerH/viewerW)<1)\r\n\t\t\t\t\tcolumnN--;\r\n\t\t\t}\r\n\t\t\timg = updateImg();\r\n\t\t} \r\n\t\telse if(processingMethod.equals(""seamCarving"")) {\t\t\r\n\t\t\tviewer.resizeImg(false);\r\n\t\t\t\r\n\t\t\t// your code\r\n\t\t\t\r\n\t\t\timg = updateImg();\t\t\r\n\t\t}\r\n\t}\t\r\n\t/**\r\n\t\tadd description ...\r\n\t*/\r\n\tprivate void calculatePixelEnergy() {\r\n\t\t\r\n\t\t// your code\r\n\r\n\t}\t\r\n\t/**\r\n\t\tadd description ...\r\n\t*/\r\n\tprivate void calculateCumulativeMinEnergy() {\r\n\t\t\r\n\t\t// your code\r\n\r\n\t}\r\n\t/**\r\n\t\tadd description ...\r\n\t*/\r\n\tprivate void seamCarving() {\r\n\t\t\r\n\t\t// your code\r\n\r\n\t}\r\n\t/**\r\n\t\tadd description ...\r\n\t\t@return : new image\r\n\t*/\r\n\tprivate int[][] updateImg() {\r\n\t\tint[][] processedImg = new int[rowN][columnN];\r\n\r\n\t\tfor (int i=0; i<rowN; i++) {\r\n\t\t\tfor (int j=0; j< columnN; j++) {\r\n\t\t\t\tprocessedImg[i][j] = img[i][j];\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn processedImg;\r\n\t}\r\n\t\r\n\t/**\r\n\t\tadd description ...\r\n\t*/\r\n\tpublic void saveImage()\r\n\t{\r\n\t\tif (fileName!=null) {\r\n\t\t\tString outputFileName = fileName.substring(0, fileName.indexOf('.'))\r\n\t\t\t\t+""_processed""+fileName.substring(fileName.indexOf('.'));\r\n\t\t\t\t\r\n\t\t\ttry {\r\n\t\t\t\tFileWriter fwriter = new FileWriter(outputFileName);\r\n\t\t\t\tPrintWriter outputFile = new PrintWriter(fwriter);\r\n\t\t\r\n\t\t\t\toutputFile.print(header);\r\n            outputFile.print(""""+columnN+"" ""+rowN+""\\n""+maxG+""\\n"");\r\n\t\t\t\tfor (int i=0; i<rowN; i++) {\r\n\t\t\t\t\tfor (int j=0; j< columnN; j++) {\r\n\t\t\t\t\t\toutputFile.print(img[i][j] + "" "");\r\n\t\t\t\t\t}\r\n\t\t\t\t\toutputFile.print(""\\n"");\r\n\t\t\t\t}\r\n\t\t\t\tfwriter.close();\r\n\t\t\t}\r\n\t\t\tcatch (IOException e) {\r\n\t\t\t\tSystem.out.println(""warning: file output error"");\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\t/**\r\n\t\tdescription\r\n\t*/\r\n\tprivate void resetImgToOriginal()\r\n\t{\r\n\t\trowN = originalImg.length;\r\n\t\tcolumnN = originalImg[0].length;\r\n\t\timg = new int[rowN][columnN];\r\n\t\tfor (int i=0; i<rowN; i++) {\r\n\t\t\tfor (int j=0; j< columnN; j++) {\r\n\t\t\t\timg[i][j] = originalImg[i][j];\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\t/**\r\n\t\tadd description ...\r\n\t\t@return : ...\r\n\t*/\r\n\tpublic int[][] getImg()\r\n\t{\r\n\t\treturn img;\r\n\t}\r\n\t\r\n\t/**\r\n\t\tdescription\r\n\t\t@return : ...\r\n\t*/\r\n\tpublic int[][] getOriginalImg()\r\n\t{\r\n\t\treturn originalImg;\r\n\t}\r\n}\r\n\r\n----------------------------------- SOURCE END -------------------------------------",1384192777777
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192777781
+error,log,,,"Error in JDT Core during reconcile",1384192777784
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192777796
+error,log,,,"Error in JDT Core during AST creation",1384192777798
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192777808
+error,log,,,"Error in JDT Core during AST creation",1384192777809
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192777817
+error,log,,,"Error in JDT Core during AST creation",1384192777818
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.jdt.ui"".",1384192777825

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="header" key="selection"/>
+		<list key="findhistory">
+			<item value="header"/>
+			<item value="fileName"/>
+			<item value="cum_intensity"/>
+			<item value="calculatePixelEnergy"/>
+			<item value="Energy"/>
+			<item value="energy"/>
+			<item value="calculateHorizontalCumulativeMinEnergy"/>
+			<item value="verticalSeamCarving"/>
+		</list>
+	</section>
+</section>
